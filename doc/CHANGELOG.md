@@ -30,6 +30,7 @@ See doc/COPYRIGHT.rdoc for more details.
 # Changelog
 
 * Add redirect from /wp to /work_packages for less typing
+* `#1951` Layout for ## and ### textile link help is broken
 * `#3539` [Work package tracking] Modul view of work packages is too broad
 
 ## 3.0.0pre41
